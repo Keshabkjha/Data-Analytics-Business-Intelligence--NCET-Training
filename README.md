@@ -31,7 +31,11 @@ The training program covered the following key areas:
 ### 1. **PowerBI College Dashboard**
 A dynamic dashboard showcasing **Demographics and Placement Insights** for a college. Features include:
 - **Student Demographics**: Gender breakdown, enrollment trends, and department-wise statistics.
+  ![Screenshot 2025-02-10 191914](https://github.com/user-attachments/assets/d1d73a39-26d3-4b5f-bfba-9feecb39075a)
+
 - **Placement Insights**: Top hiring companies, salary trends, year-wise placement trends, and gender diversity in hiring.
+  ![Screenshot 2025-02-10 192235](https://github.com/user-attachments/assets/eb692794-f529-4d68-b5d6-9d6de5ffae3e)
+
 
 📹 **Demo Video**: 
 
