@@ -1,5 +1,8 @@
 # Data Analytics(Business Intelligence) NCET Training - MyAnatomy
 
+![Screenshot 2025-02-10 191914](https://github.com/user-attachments/assets/f550e96f-e092-468b-9ac5-258c1718b913)![Screenshot 2025-02-10 192235](https://github.com/user-attachments/assets/727a33e4-c753-4f97-8f6c-2f30fc409a19)
+
+
 This repository contains all the materials, assignments, projects, and resources I worked on during the **30-hour Data Analytics Live Training Program** conducted by **Myanatomy**. The program provided a comprehensive understanding of data analytics, visualization, and storytelling, along with hands-on experience using tools like Excel, PowerBI, Tableau, and Python.
 
 ---
