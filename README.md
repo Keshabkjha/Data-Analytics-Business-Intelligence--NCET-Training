@@ -67,8 +67,12 @@ A special thanks to:
 ---
 
 ## � **LinkedIn Reposts**
-- **Myanatomy's Repost**: [View Repost](#) *(Link to Myanatomy's repost)*  
-- **Nishi Ma'am's Repost**: [View Repost](#) *(Link to Nishi Ma'am's repost)*
+
+[(![Linkedin Acknowledgement](https://github.com/user-attachments/assets/7a480b1c-e6b0-41c4-b72d-bc9c762e3dbb)
+)](https://www.linkedin.com/posts/myanatomy_successfully-completed-30-hour-data-analytics-activity-7295354519767379968-6N2r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADc6cnsBxFzEwtnGfnWzXLlUxpi5ih5-QNc)
+
+[(![image](https://github.com/user-attachments/assets/14153094-36b5-4fab-bca0-67da11a03414))](https://www.linkedin.com/posts/nishi1711_successfully-completed-30-hour-data-analytics-activity-7295289630155755521-D6X5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADc6cnsBxFzEwtnGfnWzXLlUxpi5ih5-QNc)
+
 
 ---
 
