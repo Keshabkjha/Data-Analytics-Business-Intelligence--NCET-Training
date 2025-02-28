@@ -80,8 +80,14 @@ A special thanks to:
 
 [(![image](https://github.com/user-attachments/assets/14153094-36b5-4fab-bca0-67da11a03414))](https://www.linkedin.com/posts/nishi1711_successfully-completed-30-hour-data-analytics-activity-7295289630155755521-D6X5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADc6cnsBxFzEwtnGfnWzXLlUxpi5ih5-QNc)
 
+--- 
+
+## Certificate"
+![NCET Training](https://github.com/user-attachments/assets/929eea9e-f6ff-4a4f-a2e0-e106127c471f)
+
 
 ---
+
 
 ## 🔗 **Connect with Me**
 If you'd like to connect or discuss any of the projects, feel free to reach out:  
